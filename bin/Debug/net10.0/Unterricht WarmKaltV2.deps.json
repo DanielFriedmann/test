@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Unterricht WarmKaltV2/1.0.0": {
+        "runtime": {
+          "Unterricht WarmKaltV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unterricht WarmKaltV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

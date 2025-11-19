@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unterricht WarmKaltV2", "Unterricht WarmKaltV2.csproj", "{7E2BBA75-7CFD-6A3F-4DD9-DB0DB33FB8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2BBA75-7CFD-6A3F-4DD9-DB0DB33FB8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2BBA75-7CFD-6A3F-4DD9-DB0DB33FB8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2BBA75-7CFD-6A3F-4DD9-DB0DB33FB8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2BBA75-7CFD-6A3F-4DD9-DB0DB33FB8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E5F3BB-B801-4491-A99E-31E14C6C364C}
+	EndGlobalSection
+EndGlobal

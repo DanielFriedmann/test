@@ -1,0 +1,14 @@
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.AssemblyInfoInputs.cache
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.AssemblyInfo.cs
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.csproj.CoreCompileInputs.cache
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\bin\Debug\net10.0\Unterricht WarmKaltV2.exe
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\bin\Debug\net10.0\Unterricht WarmKaltV2.deps.json
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\bin\Debug\net10.0\Unterricht WarmKaltV2.runtimeconfig.json
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\bin\Debug\net10.0\Unterricht WarmKaltV2.dll
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\bin\Debug\net10.0\Unterricht WarmKaltV2.pdb
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.dll
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\refint\Unterricht WarmKaltV2.dll
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.pdb
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\Unterricht WarmKaltV2.genruntimeconfig.cache
+C:\Users\FriedmannDaniel\CsharpProjects\CSharpExercises\Unterricht WarmKaltV2\obj\Debug\net10.0\ref\Unterricht WarmKaltV2.dll
