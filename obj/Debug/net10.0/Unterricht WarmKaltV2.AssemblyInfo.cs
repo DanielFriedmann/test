@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unterricht WarmKaltV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5ec5cae25cfa8fb52f56fffc0ba363479c698b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c41fc8ec4c307d439168ed9052a4027e63d2950")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unterricht WarmKaltV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unterricht WarmKaltV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
